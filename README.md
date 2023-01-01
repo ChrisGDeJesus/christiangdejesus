@@ -1,6 +1,6 @@
 # christiangdejesus
 <div id="header" align="center">
-  <img src="https://twitter.com/Clonezz___/photo" width="300"/>
+  <img src="https://www.bing.com/images/blob?bcid=TtA-HmfR7hMFvSJ0uDlwML1SjPpX.....9I" width="300"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/christiandejesusit/">
