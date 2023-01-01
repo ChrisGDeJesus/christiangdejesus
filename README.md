@@ -26,4 +26,5 @@ Starting out in I.T but have an interest in Ansible, Bash, and Powershell <img s
 - :zap: In my free time (whenever that is) I like to read technology/business books, look heavily into the stock market so I can invest for my future. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christiandejesusit/)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChrisGDeJesus&theme=dark&background=000000)](https://git.io/streak-stats)
