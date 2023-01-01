@@ -9,6 +9,7 @@
   <a href="https://twitter.com/Clonezz___">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ChrisGDeJesus&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
 Aspiring home labber
@@ -16,4 +17,4 @@ Aspiring home labber
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=ChrisGDeJesus&style=flat-square&color=blue" alt=""/>
+
