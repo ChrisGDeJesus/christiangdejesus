@@ -31,3 +31,5 @@ Starting out in I.T but have an interest in Ansible, Bash, and Powershell <img s
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChrisGDeJesus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
