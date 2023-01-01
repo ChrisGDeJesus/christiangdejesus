@@ -1,6 +1,6 @@
 # christiangdejesus
 <div id="header" align="center">
-  <img src="[https://www.bing.com/images/blob?bcid=TtA-HmfR7hMFvSJ0uDlwML1SjPpX.....9I](https://www.bing.com/images/search?view=detailV2&insightstoken=bcid_TtA-HmfR7hMFvSJ0uDlwML1SjPpX.....9I*ccid_0D4eZ9Hu&form=SBIANS&iss=SBIUPLOADGET&sbisrc=ImgDropper&idpbck=1&sbifsz=240+x+240+%c2%b7+11.61+kB+%c2%b7+jpeg&sbifnm=Kirby+and+some+cool+dude.jpg&thw=240&thh=240&ptime=42&dlen=15852&expw=598&exph=998&selectedindex=1&id=1F5CD2E3C6066E88302A949AC1E97D9DC893C2A2&ccid=%2BEP37JJn&vt=2&sim=1&simid=608000153695840784&ck=B2CE74A2677478FF3DA5DD27333207FF&thid=OIP.-EP37JJnWQXzPzN0JX50KAHaMX&mediaurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F27%2F8e%2F88%2F278e8806123e0aa95f72fcbf9026a20c.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.f843f7ec92675905f33f3374257e7428%3Frik%3DosKTyJ196cGalA%26pid%3DImgRaw%26r%3D0)" width="300"/>
+  <img src="https://i.pinimg.com/originals/27/8e/88/278e8806123e0aa95f72fcbf9026a20c.jpg" width="300"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/christiandejesusit/">
