@@ -30,4 +30,4 @@ Starting out in I.T but have an interest in Ansible, Bash, and Powershell <img s
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChrisGDeJesus&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChrisGDeJesus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
