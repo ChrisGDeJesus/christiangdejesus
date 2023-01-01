@@ -18,3 +18,11 @@ Aspiring home labber
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 Starting out in I.T but have an interest in Ansible, Bash, and Powershell <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- :telescope: Working to become a Network Engineer, after I get my CompTia A+ certification I will start going for my CCNA 
+
+- :seedling: seeking help from a community of geniuses! Also wanting to learn from everyone in the community. 
+
+- :zap: In my free time (whenever that is) I like to read technology/business books, look heavily into the stock market so I can invest for my future. 
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christiandejesusit/)
